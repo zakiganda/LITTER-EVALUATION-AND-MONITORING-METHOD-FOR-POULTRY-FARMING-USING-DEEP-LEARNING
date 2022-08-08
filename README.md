@@ -26,6 +26,14 @@ litter, by achieving the maximum accuracy of 97.17%.
 
 In each model's file, it consisted of modified configuration file, custom jupyter notebook file for training and other necessary files.
 
+**The process involved:**
+1. Gather the poultry litter dataset.
+2. Labelling the dataset based on classes using Roboflow tool.
+3. Export dataset based on model (YOLO used XML format while SSD used Pascal-VOC format).
+4. Split dataset into training, validation and testing sets with 70%, 10% and 20%, respectively.
+5. Download pre-trained model.
+6. Run training and testing using ipynb file.
+7. Evaluate model's performance using confusion matrix.
 
 My dataset is confidential.
 Any enquires can be emailed to muhammadzakiluhur@gmail.com
