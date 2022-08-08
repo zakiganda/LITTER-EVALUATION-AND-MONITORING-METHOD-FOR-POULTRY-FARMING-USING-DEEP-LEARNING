@@ -1,6 +1,7 @@
 # LITTER-EVALUATION-AND-MONITORING-METHOD-FOR-POULTRY-FARMING-USING-DEEP-LEARNING
 This project is to propose a transfer learning-based approach for litter monitoring and classification.
 
+**Abstract:**
 In the current practice, poultry litter is evaluated manually by poultry farmers
 based on their expert knowledge. Nevertheless, the judgment may lead to error,
 as the observation may differ from person to person. This study proposed a
