@@ -23,7 +23,7 @@ litter, by achieving the maximum accuracy of 97.17%.
 2. YOLOv4
 3. SSD
 
-In each model's file, it consisted of configuration file and jupyter notebook file for training.
+In each model's file, it consisted of modified configuration file, custom jupyter notebook file for training and other necessary files.
 
 
 My dataset is confidential.
