@@ -17,3 +17,10 @@ that all the deep learning methods produced an excellent performance with an
 accuracy greater than 90% using the selected hyperparameters. It is also found
 that YOLOv4 outperformed YOLOv3 and SSD in classifying images of poultry
 litter, by achieving the maximum accuracy of 97.17%.
+
+**The model folder in this repository contains the 3 custom model training files:** 
+1. YOLOv3
+2. YOLOv4
+3. SSD
+
+In each model's file, it consisted of configuration file, pre-trained weight file and code file for training.
